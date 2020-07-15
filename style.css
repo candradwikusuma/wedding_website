@@ -117,10 +117,10 @@ main {
   cursor: pointer;
   z-index: 2;
 }
-/* .navbar ul.nav-active {
-  transform: translateY(100px);
+.navbar ul.nav-active {
+  transform: translateY(0px);
   z-index: 3;
-} */
+}
 .burger {
   display: none;
   cursor: pointer;
